@@ -1,0 +1,19 @@
+# Node.js
+node_modules
+
+# خروجی نهایی (اگه داری build می‌گیری)
+dist
+build
+
+# فایل‌های محیطی
+.env
+.env.local
+
+# لاگ‌ها
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE/Editor configs
+.idea
+.vscode
